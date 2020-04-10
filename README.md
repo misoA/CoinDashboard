@@ -1,2 +1,0 @@
-# CoinDashBoard
-Created with CodeSandbox
